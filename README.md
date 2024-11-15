@@ -15,8 +15,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/github-tracker-bot.git
-   cd github-tracker-bot
+   git clone [https://github.com/your-username/github-tracker-bot.git](https://github.com/candyburst/Github-New-Repo-Commits-Notifier.git)
+   cd Github-New-Repo-Commits-Notifier
    ```
 
 2. **Install Required Libraries**:
@@ -33,7 +33,7 @@
 
 5. **Run the Bot**:
    ```bash
-   python github_tracker_bot.py
+   python repo.py
    ```
 
 ---
