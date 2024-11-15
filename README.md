@@ -52,6 +52,12 @@ The bot runs every 3 hours, checking for updates and notifying you when there’
 
 ---
 
+### ?? Contact
+- **Telegram Channel**: [FiveKAirdrop](https://t.me/fivekairdrop)
+- **Telegram Discussion**: [FiveKDrop](https://t.me/fivekdrop)
+
+---
+
 ### 📄 License
 This project is licensed under the MIT License.
 
