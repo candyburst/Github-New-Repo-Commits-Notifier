@@ -4,8 +4,8 @@ import time
 import os
 
 # Telegram Bot API configuration
-TELEGRAM_TOKEN = "7882068137:AAFj51phbaQDTDiUDB5VfgshBsIHf4G4jL4"
-TELEGRAM_CHAT_ID = "6115665368"
+TELEGRAM_TOKEN = "YourBotTokenfromBotfather"
+TELEGRAM_CHAT_ID = "yourtelegramchatidnumber"
 USERNAME_FILE = "usernames.txt"
 
 # Tracking latest commit and repo IDs to avoid duplicate notifications
