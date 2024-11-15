@@ -15,7 +15,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-username/github-tracker-bot.git](https://github.com/candyburst/Github-New-Repo-Commits-Notifier.git)
+   git clone https://github.com/candyburst/Github-New-Repo-Commits-Notifier.git
    cd Github-New-Repo-Commits-Notifier
    ```
 
