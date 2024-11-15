@@ -53,8 +53,8 @@ The bot runs every 3 hours, checking for updates and notifying you when there’
 ---
 
 ### ?? Contact
-- **Telegram Channel**: [FiveKAirdrop](https://t.me/fivekairdrop)
-- **Telegram Discussion**: [FiveKDrop](https://t.me/fivekdrop)
+- **Telegram Channel**: [Living by Crypto](https://t.me/fivekairdrop)
+- **Telegram Discussion**: [Living by Crypto - Discussion](https://t.me/fivekdrop)
 
 ---
 
